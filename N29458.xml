@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039225_0000_1013F9451860B900"/>
-            <pb facs="tcp:039225_0001_1013F9469E035980" rendition="simple:additions"/>
+            <pb facs="unknown:039225_0000_1013F9451860B900"/>
+            <pb facs="unknown:039225_0001_1013F9469E035980"
+                rendition="simple:additions"/>
             <p>Spiritual MILK FOR Boſton Babes. In either <hi>ENGLAND</hi>: Drawn out of the breaſts of both <hi>TESTAMENTS</hi> for their Souls nouriſhment. But may be of like uſe to any CHILDREN.</p>
             <p>By <hi>John Cotton, B. D.</hi> Late <hi>Teacher</hi> to the Church of <hi>Boſton</hi> in New-England.</p>
             <p>Printed at BOSTON, 1684.</p>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div type="catechism">
-            <pb n="1" facs="tcp:039225_0002_1013F949D1F14AD0"/>
+            <pb n="1" facs="unknown:039225_0002_1013F949D1F14AD0"/>
             <head>MILK FOR BABES.</head>
             <p>Queſt, <hi>WHat hath God done for you</hi>?</p>
             <p>A. God hath made me<g ref="char:punc">▪</g> 
@@ -148,7 +149,7 @@
             </p>
             <p>A. No, my firſt Father <note place="margin">Iſa 43:27: Rom 12:19</note> ſinned and I in him.</p>
             <p>
-               <pb n="2" facs="tcp:039225_0003_1013F94BABD17FB0"/>Q. <hi>Are you then born a ſinner?</hi>
+               <pb n="2" facs="unknown:039225_0003_1013F94BABD17FB0"/>Q. <hi>Are you then born a ſinner?</hi>
             </p>
             <p>
                <hi>A.</hi> I was conceived in ſin and <note n="f" place="margin">Pſal. 51.5</note> born in iniquity.</p>
@@ -185,7 +186,7 @@
             <p>
                <hi>A</hi> Thou ſhalt not MAKE to thy ſelf any graven IMAGE,<note n="n" place="margin">Exod 20.4, 5</note> &amp;c.</p>
             <p>
-               <pb n="3" facs="tcp:039225_0004_1013F94E44722348"/>Q <hi>VVhat is the meaning of this Commandment?</hi>
+               <pb n="3" facs="unknown:039225_0004_1013F94E44722348"/>Q <hi>VVhat is the meaning of this Commandment?</hi>
             </p>
             <p>
                <hi>A.</hi> That we ſhould worſhip the true <note n="o" place="margin">Joh 4.24 Deut 12.32 Mat 15.19</note> God with true WORSHIP, ſuch as God hath ordained, not ſuch as man hath invented.</p>
@@ -213,7 +214,7 @@
                <hi>Q. VVhat is the meaning of this Commandment?</hi>
             </p>
             <p>A. That we ſhould reſt from labour
-<pb n="4" facs="tcp:039225_0005_1013F950B4EA0540"/>
+<pb n="4" facs="unknown:039225_0005_1013F950B4EA0540"/>
 and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note> the Lords day, that we may draw nigh to God in holy duties.</p>
             <p>
                <hi>Q. VVhat is the fifth Command<g ref="char:EOLhyphen"/>ment?</hi>
@@ -236,7 +237,7 @@ and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note>
             </p>
             <p>A. That we ſhould not ſhorten the <note place="margin">Mat 5.22 2 Cor 7.10 1 Sam 16:24. Mark 3:4</note> life or health of our ſelves or others, but preſerve both.</p>
             <p>
-               <pb n="5" facs="tcp:039225_0006_1013F953EBBBFFC8"/>
+               <pb n="5" facs="unknown:039225_0006_1013F953EBBBFFC8"/>
                <hi>Q. What is the ſeventh Command<g ref="char:EOLhyphen"/>ment?</hi>
             </p>
             <p>
@@ -270,7 +271,7 @@ and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note>
                <hi>Q. What is the ninth Command<g ref="char:EOLhyphen"/>ment</hi>
             </p>
             <p>
-               <pb n="6" facs="tcp:039225_0007_1013F9564B47EC98"/>
+               <pb n="6" facs="unknown:039225_0007_1013F9564B47EC98"/>
                <hi>A.</hi> Thou <note n="f" place="margin">Exod 20:16</note> ſhalt not bear falſe WITNES againſt thy Neighbour.</p>
             <p>
                <hi>Q. What is the ſin here forbid<g ref="char:EOLhyphen"/>den?</hi>
@@ -316,7 +317,7 @@ and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note>
                <hi>Q. VVho is Jeſus Chriſt?</hi>
             </p>
             <p>
-               <pb n="7" facs="tcp:039225_0008_1013F8AF1DD325A8"/>
+               <pb n="7" facs="unknown:039225_0008_1013F8AF1DD325A8"/>
                <hi>A.</hi> The Eternal Son of God, who for our ſakes <note n="o" place="margin">1 Joh 3:22 Pro 8:23—25 Joh 1:14 2 Cor 2.8, 9 Luk 1:68, 69, &amp; 2:12</note> became man, that he might redeem and ſave us.</p>
             <p>
                <hi>Q How doth Chriſt redeem and ſave us?</hi>
@@ -340,7 +341,7 @@ and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note>
             </p>
             <p>A.<note place="margin">Gal 3:10—24</note> So I come to feel my curſed eſtate, and the need of a Saviour.</p>
             <p>
-               <pb n="8" facs="tcp:039225_0009_1013F95D35084370"/>Q. <hi>How doth the Miniſtry of the Goſpel help you in this curſed Eſtate?</hi>
+               <pb n="8" facs="unknown:039225_0009_1013F95D35084370"/>Q. <hi>How doth the Miniſtry of the Goſpel help you in this curſed Eſtate?</hi>
             </p>
             <p>
                <hi>A.</hi> By humbling me<note n="u" place="margin">Luk 3.4, 5, 6</note> yet more, and then raiſing me up out of this Eſtate.</p>
@@ -355,7 +356,7 @@ and much more from play on <note place="margin">Iſa 58.12, 13 Exod 32.6.</note>
             <p>
                <hi>A.</hi> By <note n="x" place="margin">Joh 12.32 2 Cor 5.19, 20 Can 5.10, to 16 with 11 2 Cor: 3.28 Luk 19.10 Mat 9.13 Gal 3:5 Rom 10:17 &amp; 1.16:</note> teaching me the va<g ref="char:EOLhyphen"/>lue and vertue of the death of Chriſt, and the riches of Grace to loſt Sin<g ref="char:EOLhyphen"/>ners, by revealing the promiſe of Grace to ſuch, and by miniſtring the Spirit of Grace, to apply Chriſt and his promiſe of Grace unto my ſelf, and to keep me in him.</p>
             <p>Q. <hi>How doth the ſpirit of Grace
-<pb n="9" facs="tcp:039225_0010_1013F95EBAC015B8"/>
+<pb n="9" facs="unknown:039225_0010_1013F95EBAC015B8"/>
 apply Chriſt and his promiſe of Grace unto you and keep you in him?</hi>
             </p>
             <p>
@@ -380,7 +381,7 @@ apply Chriſt and his promiſe of Grace unto you and keep you in him?</hi>
             </p>
             <p>
                <hi>A.</hi> Newneſs of life is a <note n="c" place="margin">Pſal 51.1, 2, 10</note> grace of the Spirit, whereby I forſake my
-<pb n="10" facs="tcp:039225_0011_1013F9605FD6D930"/>
+<pb n="10" facs="unknown:039225_0011_1013F9605FD6D930"/>
 former luſts and vain company, and walk before the Lord in the light of his word<g ref="char:punc">▪</g> and in the communion of his Saints?<note place="margin">Rom 7.6 1 Pet 42:34 Pſal 116:9 &amp; 119:9.101, 115: &amp; 16:3,</note>
             </p>
             <p>
@@ -401,7 +402,7 @@ former luſts and vain company, and walk before the Lord in the light of his wor
             </p>
             <p>A. To <note n="g" place="margin">Joſh 24:15 23, 24, 25 2 Cor 5:5, Eph 5:21 Neh 9:38: with 10:28:29 34</note> give up themſelves and their Seed, firſt to the Lord to be his People, and then to the Elders and Brethren of the Church, to ſet for<g ref="char:EOLhyphen"/>ward the worſhip of God, and their mutual edification.</p>
             <p>
-               <pb n="11" facs="tcp:039225_0012_1013F961EBCC5B48"/>
+               <pb n="11" facs="unknown:039225_0012_1013F961EBCC5B48"/>
                <hi>Q, How do they give up themſelves and their Seed to the Lord?</hi>
             </p>
             <p>A. By receiving through <note n="h" place="margin">Joh 1:12 Gen 17:9: Iſa 56:<gap reason="illegible: indecipherable" extent="1 letter">
@@ -427,7 +428,7 @@ former luſts and vain company, and walk before the Lord in the light of his wor
                <hi>Q. What is done for you in Baptiſm?</hi>
             </p>
             <p>A. In Baptiſme, the waſhing with water is a ſign and ſeal of my waſhing in the blood and ſpirit of Chriſt and thereby of my ingrafting into Chriſt, of the pardon and clean<g ref="char:EOLhyphen"/>ſing of my ſins; of my raiſing up
-<pb n="12" facs="tcp:039225_0013_1013F96527535648"/>
+<pb n="12" facs="unknown:039225_0013_1013F96527535648"/>
 out of Affliction: and alſo of my re<g ref="char:EOLhyphen"/>ſurrection from the dead at the laſt day.</p>
             <p>
                <hi>Q. What is done for you in the Lords Supper?</hi>
@@ -442,7 +443,7 @@ out of Affliction: and alſo of my re<g ref="char:EOLhyphen"/>ſurrection from t
                <hi>Q. VVhat is the laſt Judgement, which is ſealed up to you in the Lords Supper?</hi>
             </p>
             <p>
-               <pb n="13" facs="tcp:039225_0014_1013F96789E971F0"/>A. At the laſt <note n="p" place="margin">2 Cor 5:19 Mat 12:36 1 Cor 4:5 Eccleſ: 12:14</note> day we ſhall all appear before the Judgement ſeat of Chriſt to give an account of our works and to receive our reward ac<g ref="char:EOLhyphen"/>cording to them.</p>
+               <pb n="13" facs="unknown:039225_0014_1013F96789E971F0"/>A. At the laſt <note n="p" place="margin">2 Cor 5:19 Mat 12:36 1 Cor 4:5 Eccleſ: 12:14</note> day we ſhall all appear before the Judgement ſeat of Chriſt to give an account of our works and to receive our reward ac<g ref="char:EOLhyphen"/>cording to them.</p>
             <p>
                <hi>Q. What is the reward that ſhall then be given?</hi>
             </p>
